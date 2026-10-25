@@ -1,0 +1,9 @@
+// Static-files Worker: serves public/ at wheek-havoc.shafe.dev
+{
+  "name": "wheek-havoc",
+  "compatibility_date": "2025-07-15",
+  "assets": { "directory": "./public" },
+  "routes": [
+    { "pattern": "wheek-havoc.shafe.dev", "custom_domain": true }
+  ]
+}
